@@ -1,2 +1,10 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>fond_connexion1.png</file>
+    </qresource>
+    <qresource prefix="/icones">
+        <file>icone-deconnexion.png</file>
+        <file>icone-arreter.png</file>
+    </qresource>
+</RCC>
